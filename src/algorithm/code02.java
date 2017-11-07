@@ -1,7 +1,7 @@
 package algorithm;
 
 // 무한루프에빠지지 않는 Recursion
-public class code2 {
+public class code02 {
 	public static void main(String[] args) {
 		func(4);
 	}

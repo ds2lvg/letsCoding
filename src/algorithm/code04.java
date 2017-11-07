@@ -1,7 +1,7 @@
 package algorithm;
 
 // Recursion과 수학적귀납법
-public class code4 {
+public class code04 {
 	public static void main(String[] args) {
 		int result = func(4);
 		System.out.println(result);

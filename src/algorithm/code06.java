@@ -1,6 +1,6 @@
 package algorithm;
 
-public class code6 {
+public class code06 {
 	public static void main(String[] args) {
 		int result1 = euclid1(16, 4);
 		System.out.println(result1);

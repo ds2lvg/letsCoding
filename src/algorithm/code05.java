@@ -1,6 +1,6 @@
 package algorithm;
 
-public class code5 {
+public class code05 {
 	public static void main(String[] args) {
 		int result = fibonacci(6);
 		System.out.println(result);

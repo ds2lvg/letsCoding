@@ -1,7 +1,7 @@
 package algorithm;
 
 // Recursion과 수학적귀납법
-public class code3 {
+public class code03 {
 	public static void main(String[] args) {
 		int result = factorial(4);
 		System.out.println(result);
